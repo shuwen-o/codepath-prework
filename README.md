@@ -39,8 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](http://g.recordit.co/Zs41laVmCS.gif)
-![](gif2-link-here)
+![](http://g.recordit.co/Zs41laVmCS.gif) Part 1: first four notes
+![](gif2-link-here) Part 2: last four notes, player wins
 ![](gif3-link-here)
 ![](gif4-link-here)
 
