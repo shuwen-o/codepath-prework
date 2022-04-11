@@ -39,9 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](http://g.recordit.co/Zs41laVmCS.gif) Part 1: first four notes
-![](gif2-link-here) Part 2: last four notes, player wins
-![](gif3-link-here)
+![](http://g.recordit.co/AyRRzs0Ajy.gif) Part 1: First five clues
+![](gif2-link-here) Part 2: Last three clues, player wins
+![](http://g.recordit.co/YYTl65SDZk.gif) Part 3: Player has three chances to guess, loses
 ![](gif4-link-here)
 
 ## Reflection Questions
