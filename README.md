@@ -55,7 +55,7 @@ In terms of the required functionalities under the step-by-step instructions, I 
 Another challenge was during the submission itself - I spent quite a while figuring out and "debugging" my GIF recorded tool. Since the . Iterations (split into two, equal timing)
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE] how the different sheets work together
+[YOUR AhelloNSWER HERE] how the different sheets work together
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
