@@ -69,7 +69,7 @@ Another challenge was during the submission itself - I spent quite a while figur
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [SHU WEN ONG]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
