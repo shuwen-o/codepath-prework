@@ -42,7 +42,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](http://g.recordit.co/EM9tF3MNGp.gif) Part 1: First four clues
 ![](http://g.recordit.co/nTt8YeYplX.gif) Part 2: Next three clues
 ![](http://g.recordit.co/5kIA823mkS.gif) Part 3: Last clue, player wins
-![](http://g.recordit.co/YYTl65SDZk.gif) Player loses (after three chances)
+![](http://g.recordit.co/JXAo18caNu.gif) Player loses (after three chances)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
