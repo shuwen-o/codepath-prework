@@ -44,6 +44,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](http://g.recordit.co/5kIA823mkS.gif) Part 3: Last clue, player wins
 ![](http://g.recordit.co/JXAo18caNu.gif) Player loses (after three chances)
 
+[Screen Recording of Game with Sound](https://www.loom.com/share/27dec87dbed743f2bd580beed2237e94)
+
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 For additional functionalities like implementing the Math.random() function (to pick a different pattern for each game) and working with arrays, I referred to the JavaScript section of w3schools. I also used a website to obtain the frequencies of music notes. 
